@@ -24,3 +24,17 @@ Images:
 
 Links:
 [GitHub website](https://github.com)
+
+Quotes:
+> Someone said this.
+> They also said more things.
+
+Task List:
+- [X] Do this thing
+- [ ] Do this other thing
+- [ ] Do this last thing
+
+Code:
+```for i in range(10):
+    print(i**2)
+```
