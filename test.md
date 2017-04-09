@@ -1,5 +1,11 @@
 This is a test of Markdown.
 
+*italic*
+
+**bold** 
+
+***italic & bold***
+
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -35,7 +41,8 @@ Task List:
 - [ ] Do this last thing
 
 Code:
-```python3
+```python
 for i in range(10):
     print(i**2)
 ```
+Here is some inline code `requests.get(page)`
